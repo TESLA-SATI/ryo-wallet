@@ -10,7 +10,7 @@ on:
     branches: [ "master" ]
 
 jobs: SATI
-  build: Wallet
+  build:Wallet
 
     runs-on: ubuntu-latest
 
